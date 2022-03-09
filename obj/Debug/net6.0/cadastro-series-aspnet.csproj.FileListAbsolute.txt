@@ -1,0 +1,15 @@
+D:\Dev\workspace\cadastro-series-aspnet\bin\Debug\net6.0\cadastro-series-aspnet.exe
+D:\Dev\workspace\cadastro-series-aspnet\bin\Debug\net6.0\cadastro-series-aspnet.deps.json
+D:\Dev\workspace\cadastro-series-aspnet\bin\Debug\net6.0\cadastro-series-aspnet.runtimeconfig.json
+D:\Dev\workspace\cadastro-series-aspnet\bin\Debug\net6.0\cadastro-series-aspnet.dll
+D:\Dev\workspace\cadastro-series-aspnet\bin\Debug\net6.0\cadastro-series-aspnet.pdb
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.csproj.AssemblyReference.cache
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.AssemblyInfoInputs.cache
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.AssemblyInfo.cs
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.csproj.CoreCompileInputs.cache
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.dll
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\refint\cadastro-series-aspnet.dll
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.pdb
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\cadastro-series-aspnet.genruntimeconfig.cache
+D:\Dev\workspace\cadastro-series-aspnet\obj\Debug\net6.0\ref\cadastro-series-aspnet.dll
